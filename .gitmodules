@@ -1,0 +1,12 @@
+[submodule "integrations/ha-homebox-plus"]
+	path = integrations/ha-homebox-plus
+	url = https://github.com/Marshy-Madness/ha-homebox-plus.git
+[submodule "integrations/ha-memos"]
+	path = integrations/ha-memos
+	url = https://github.com/Marshy-Madness/ha-memos.git
+[submodule "integrations/ha-olivetin"]
+	path = integrations/ha-olivetin
+	url = https://github.com/Marshy-Madness/ha-olivetin.git
+[submodule "integrations/ha-wolf"]
+	path = integrations/ha-wolf
+	url = https://github.com/Marshy-Madness/ha-wolf.git
