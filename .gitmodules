@@ -10,3 +10,6 @@
 [submodule "integrations/ha-wolf"]
 	path = integrations/ha-wolf
 	url = https://github.com/Marshy-Madness/ha-wolf.git
+[submodule "integrations/ha-vikunja"]
+	path = integrations/ha-vikunja
+	url = https://github.com/Marshy-Madness/ha-vikunja.git

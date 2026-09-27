@@ -22,6 +22,7 @@ declare -A DESC=(
   [ha-homebox-plus]="Homebox inventory integration for Home Assistant"
   [ha-memos]="Memos integration for Home Assistant"
   [ha-olivetin]="OliveTin integration for Home Assistant"
+  [ha-vikunja]="Vikunja integration for Home Assistant"
   [ha-wolf]="Wolf (Games on Whales) integration for Home Assistant"
 )
 for dir in "$ROOT"/integrations/*/; do

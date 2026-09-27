@@ -11,6 +11,7 @@ Each integration lives in **its own repository**, which is what HACS needs. This
 | Homebox Plus | [ha-homebox-plus](https://github.com/Marshy-Madness/ha-homebox-plus) | Homebox inventory: stock tracking, shopping list, maintenance and warranty calendars, NFC tags, voice/LLM tools |
 | Memos | [ha-memos](https://github.com/Marshy-Madness/ha-memos) | Memos notes: stats sensors, task list, notify entity, create memos |
 | OliveTin | [ha-olivetin](https://github.com/Marshy-Madness/ha-olivetin) | A button for every OliveTin action |
+| Vikunja | [ha-vikunja](https://github.com/Marshy-Madness/ha-vikunja) | Vikunja tasks: a to-do list per project, due/overdue sensors, calendar, actions |
 | Wolf (Games on Whales) | [ha-wolf](https://github.com/Marshy-Madness/ha-wolf) | Wolf stream sessions and lobbies: sensors, stop/pause controls |
 
 ## Installing an integration
